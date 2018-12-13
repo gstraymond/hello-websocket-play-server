@@ -14,4 +14,4 @@ The server is listening on the route :
 GET /
 ```
 
-YOu can specify query parameter `close` to `true` to force the server to close the WebSocket connection after sending "Hello!"
+You can specify query parameter `close` to `true` to force the server to close the WebSocket connection after sending "Hello!"
