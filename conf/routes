@@ -1,0 +1,1 @@
+GET / controllers.WebSocketController.hello(close: Option[Boolean])
